@@ -8,12 +8,12 @@
 
 ### 💬 About Me:
  - 🔭 I just launched my first major project: **[YourDynamicDashboard](https://github.com/xtditom/YourDynamicDashboard)**
- - 🌱 I'm currently exploring the fundamentals of web development and planning my future path in tech.
+ - 🌱 I'm currently exploring the tech world and planning my future path in tech.
  - 🎨 I love design, especially creating intuitive and beautiful webpage and app interfaces.
  - 💡 My interests also include app development, photo/video editing, and gaming.
 
    <details>
-        <summary><b>⚡ Fun Fact About My Journey</b></summary>
+        <summary><b>⚡ A Fun Fact About Me</b></summary>
         <br/>
         <p>My love for technology started in my childhood. I used to explore my parents' phone so much that I'd occasionally cause problems they had to fix. Instead of stopping me, this cycle of exploring, breaking, and learning sparked a lifelong passion             for understanding how technology works!</p>
    </details>
