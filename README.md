@@ -35,7 +35,7 @@
   <h3 align="center">🛠️ My Toolkit & Interests</h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ae,androidstudio,blender,c,cpp,css,discord,docker,dotnet,electron,flutter,gamemakerstudio,gcp,git,github,gmail,html,ai,instagram,java,js,kali,kotlin,linkedin,linux,materialui,nodejs,nextjs,npm,ps,php,powershell,pr,react,redux,twitter,unity,unreal,visualstudio,windows,wordpress,py,pytorch,cloudflare,gitlab&perline=10" />
+        <img src="https://skillicons.dev/icons?i=ae,androidstudio,blender,c,cs,cpp,css,discord,docker,dotnet,electron,flutter,gcp,git,github,gmail,html,ai,instagram,java,js,kali,kotlin,linkedin,linux,nodejs,nextjs,npm,ps,php,powershell,pr,react,twitter,unity,unreal,visualstudio,windows,wordpress,py,cloudflare,firebase&perline=7" />
       </a>
     </p>
   <hr>
