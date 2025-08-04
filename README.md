@@ -3,7 +3,7 @@
     <td width="65%" valign="top">
       <h1 align="left">Hi there, I'm Ditom Baroi Antu 👋</h1>
       <p align="left">
-        I'm a 17-year-old student from Dhaka, Bangladesh, with a deep passion for the world of technology and science. I'm at the beginning of my journey into programming and design, driven by a curiosity to explore how things work and a goal to one day build amazing things.
+        I'm a 17-year-old student from Nawabganj, Dhaka, Bangladesh, with a deep passion for the world of technology and science. I'm at the beginning of my journey into programming and design, driven by a curiosity to explore how things work and a goal to one day build amazing things.
       </p>
 
 ### 💬 About Me:
