@@ -1,16 +1,46 @@
-## Hi there 👋
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h1 align="left">Hi there, I'm Ditom Baroi Antu 👋</h1>
+      <p align="left">
+        I'm a 17-year-old student from Dhaka, Bangladesh, with a deep passion for the world of technology and science. I'm at the beginning of my journey into programming and design, driven by a curiosity to explore how things work and a goal to one day build amazing things.
+      </p>
 
-<!--
-**xtditom/xtditom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 About Me:
+ - 🔭 I just launched my first major project: **[YourDynamicDashboard](https://github.com/xtditom/YourDynamicDashboard)**
+ - 🌱 I'm currently exploring the fundamentals of web development and planning my future path in tech.
+ - 🎨 I love design, especially creating intuitive and beautiful webpage and app interfaces.
+ - 💡 My interests also include app development, photo/video editing, and gaming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <details>
+        <summary><b>⚡ Fun Fact About My Journey</b></summary>
+        <br/>
+        <p>My love for technology started in my childhood. I used to explore my parents' phone so much that I'd occasionally cause problems they had to fix. Instead of stopping me, this cycle of exploring, breaking, and learning sparked a lifelong passion             for understanding how technology works!</p>
+   </details>
+      
+   <br/>
+      
+    ### 🗨️ Get in touch:
+      <p align="left">
+        <a href="https://www.facebook.com/xtditom" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+        <a href="https://www.instagram.com/xtditom" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+        <a href="https://www.threads.com/xtditom" target="blank"><img align="center" src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" /></a>
+        <a href="https://discordapp.com/users/1116336431099555950" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="https://open.spotify.com/user/313rvjwnftjq4guskn43tku7wgye?si=c2d32cdad7db4ca2" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+      </p>
+    </td>
+    <td width="35%" valign="top">
+  <h3 align="center">🛠️ My Toolkit & Interests</h3>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ae,androidstudio,blender,c,cpp,css,discord,docker,dotnet,electron,flutter,gamemakerstudio,gcp,git,github,gmail,html,ai,instagram,java,js,kali,kotlin,linkedin,linux,materialui,nodejs,nextjs,npm,ps,php,powershell,pr,react,redux,twitter,unity,unreal,visualstudio,windows,wordpress,py,pytorch,cloudflare,gitlab&perline=10" />
+      </a>
+    </p>
+  <hr>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=xtditom&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="ditom's github stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtditom&layout=compact&theme=tokyonight&hide_border=true" alt="ditom's top languages" />
+    </p>
+</td>
+  </tr>
+</table>
