@@ -29,7 +29,7 @@
         <a href="https://open.spotify.com/user/313rvjwnftjq4guskn43tku7wgye?si=c2d32cdad7db4ca2" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
         <a href="https://x.com/xtditom369" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="x.com" /></a>
         <a href="https://t.me/xtditom" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-        <a href="https://www.tiktok.com/xtditom" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" /></a>
+        <a href="https://www.tiktok.com/@xtditom" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" /></a>
       </p>
     </td>
     <td width="35%" valign="top">
