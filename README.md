@@ -40,10 +40,6 @@
       </a>
     </p>
   <hr>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=xtditom&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="ditom's github stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtditom&layout=compact&theme=tokyonight&hide_border=true" alt="ditom's top languages" />
-    </p>
 </td>
   </tr>
 </table>
