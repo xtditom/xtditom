@@ -40,6 +40,8 @@
       </a>
     </p>
   <hr>
-</td>
-  </tr>
+<h3 align="center">🐍 My Contribution Snake</h3>
+<p align="center">
+  <img src="https://github.com/xtditom/xtditom/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 </table>
