@@ -44,4 +44,8 @@
 <p align="center">
   <img src="https://github.com/xtditom/xtditom/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+<h3 align="center">🔥 Coding Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xtditom&theme=algolia&hide_border=true" alt="xtditom's Streak" />
+</p>
 </table>
