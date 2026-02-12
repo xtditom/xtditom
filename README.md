@@ -7,7 +7,7 @@
       </p>
 
 ### 💬 About Me:
- - 🔭 I just launched my first major project: **[YourDynamicDashboard](https://github.com/xtditom/YourDynamicDashboard)**
+ - 🔭 I launched my first major project: **[YourDynamicDashboard](https://github.com/xtditom/YourDynamicDashboard)**
  - 🌱 I'm currently exploring the tech world and planning my future path in tech.
  - 🎨 I love design, especially creating intuitive and beautiful webpage and app interfaces.
  - 💡 My interests also include app development, photo/video editing, and gaming.
